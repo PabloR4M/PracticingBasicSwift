@@ -1,0 +1,17 @@
+"Dear Learner,
+
+Um, congratulations!
+
+You have officially finished the last Swift language lesson of this 
+course. Give yourself a big pat on the back, because you have come 
+so far in this journey and you should be very proud of yourself.
+
+By giving this letter back to you, we hope that you will hold on to the 
+old you that was first learning how to write a print() statement, the 
+you that was curious and spirited, the you that was ready to tackle 
+the world.
+
+We hope that with Swift at your side, you will build something that 
+can impact the world in a very positive way.
+
+Take care and <3"
